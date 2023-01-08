@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This Personal blog based on the real events in a reality oxinated mind. I post about my challenges with
   life, Programming, Poems and anything else that can happen to a normal human being. This blog is built
   with Jekyll And the blog itself is a challenge for me, So hopefully you'll see improvements through time.
-baseurl: devosopher.github.io # the subpath of your site, e.g. /blog
-url: https://devosopher.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: imanaski.github.io # the subpath of your site, e.g. /blog
+url: https://imanaski.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sophoskiaskile
 github_username:  imanaski
 
