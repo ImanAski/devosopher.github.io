@@ -2,6 +2,7 @@
 title: I am here
 date: 2023-04-02 02:52
 layout: post
+categories: post myself
 ---
 
 I am here as I am writing this piece of text. I am facing all the past mistakes I've had created. It doesn't matter if they were wrong 
